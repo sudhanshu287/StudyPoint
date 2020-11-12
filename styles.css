@@ -222,21 +222,7 @@
   .footer-logo {
     flex-basis: 40%;
   }
-  /*---------------- social-icons --------------------*/
-  .social-icon {
-    width: 50px;
-    position: fixed;
-    top: 50%;
-    left: 0;
-    transform: translateY(-50%);
-    z-index: 1;
-  }
-  .social-icon img {
-    display: block;
-    width: 20px;
-    margin: 0 auto 20px;
-    cursor: pointer;
-  }
+ 
   
   @media only screen and (max-width: 770px) {
     #header {
